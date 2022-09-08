@@ -1,0 +1,137 @@
+{
+    "ingredientesMM": [{
+            "id": 1,
+            "ingrediente": "Harina",
+            "cantidad": 47,
+            "unidad": "gr"
+        },
+        {
+            "id": 2,
+            "ingrediente": "agua",
+            "cantidad": 36,
+            "unidad": "gr"
+        },
+        {
+            "id": 3,
+            "porcentaje": "20%",
+            "ingrediente": "masa Madre",
+            "cantidad": 10,
+            "unidad": "gr"
+        },
+        {
+            "id": 4,
+            "porcentaje": "2%",
+            "ingrediente": "sal",
+            "cantidad": 1,
+            "unidad": "gr"
+        }
+    ],
+    "ingredientesPizza": [{
+            "id": 1,
+            "porcentaje": "90%",
+            "ingrediente": "Harina",
+            "cantidad": 400,
+            "unidad": "gr"
+        },
+        {
+            "id": 2,
+            "porcentaje": "70%",
+            "ingrediente": "agua",
+            "cantidad": 280,
+            "unidad": "gr"
+        },
+        {
+            "id": 3,
+            "porcentaje": "20%",
+            "ingrediente": "levadura",
+            "cantidad": 5,
+            "unidad": "gr"
+        },
+        {
+            "id": 4,
+            "porcentaje": "2%",
+            "ingrediente": "sal",
+            "cantidad": 10,
+            "unidad": "gr"
+        },
+        {
+            "id": 5,
+            "porcentaje": "2%",
+            "ingrediente": "salsa",
+            "cantidad": 100,
+            "unidad": "gr"
+        },
+        {
+            "id": 6,
+            "porcentaje": "2%",
+            "ingrediente": "queso",
+            "cantidad": 250,
+            "unidad": "gr"
+        }
+    ],
+    "ingredientesFocaccia": [{
+            "id": 1,
+            "porcentaje": "90%",
+            "ingrediente": "Harina",
+            "cantidad": 400,
+            "unidad": "gr"
+        },
+        {
+            "id": 2,
+            "porcentaje": "70%",
+            "ingrediente": "agua",
+            "cantidad": 250,
+            "unidad": "gr"
+        },
+        {
+            "id": 3,
+            "porcentaje": "20%",
+            "ingrediente": "levadura",
+            "cantidad": 15,
+            "unidad": "gr"
+        },
+        {
+            "id": 4,
+            "porcentaje": "2%",
+            "ingrediente": "sal",
+            "cantidad": 10,
+            "unidad": "gr"
+        },
+        {
+            "id": 5,
+            "porcentaje": "2%",
+            "ingrediente": "aceite oliva",
+            "cantidad": 50,
+            "unidad": "gr"
+        }
+    ],
+    "ingredientesArepas": [{
+            "id": 1,
+            "porcentaje": "90%",
+            "ingrediente": "Harina de maiz",
+            "cantidad": 47,
+            "unidad": "gr"
+        },
+        {
+            "id": 2,
+            "porcentaje": "70%",
+            "ingrediente": "agua",
+            "cantidad": 36,
+            "unidad": "gr"
+        },
+        {
+            "id": 3,
+            "porcentaje": "20%",
+            "ingrediente": "aceite girasol",
+            "cantidad": 10,
+            "unidad": "gr"
+        },
+        {
+            "id": 4,
+            "porcentaje": "2%",
+            "ingrediente": "sal",
+            "cantidad": 1,
+            "unidad": "gr"
+        }
+    ]
+}

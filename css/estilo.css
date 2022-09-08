@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+:root {
+    --color1: #5AAA95;
+    --color2: #FFFCF2;
+    --color3: #485762;
+    --color-letra1: #000;
+    --color-letra2: #485762;
+    --tamaño-md: 20px;
+    --tamaño-sm: 15px;
+    --tamaño-lg: 25px;
+}
+
+header {
+    background-color: var(--color1);
+    height: 100px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    color: var(--color2);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: var(--tamaño-lg);
+    padding: 2rem;
+}
+
+.contenedor {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--color3);
+}
+
+.receta1 {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--color2);
+    width: 70%;
+    margin: 5rem;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgb(63, 62, 62);
+}
+
+.receta1 h2 {
+    text-align: center;
+    color: var(--color-letra2);
+    text-shadow: 2px 2px 4px #000000;
+    font-size: var(--tamaño-md);
+    text-decoration: solid overline;
+    margin-bottom: 2rem;
+}
+
+.receta1 ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    font-size: var(--tamaño-sm);
+    list-style-type: none;
+}
+
+.receta1 ul li {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.botonera {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.recetasTxt {
+    text-align: center;
+    color: var(--color-letra2);
+    font-size: var(--tamaño-sd);
+    letter-spacing: 2px;
+}
+
+footer {
+    background-color: var(--color3);
+    height: 30vh;
+}
